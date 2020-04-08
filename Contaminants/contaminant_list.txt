@@ -25,8 +25,8 @@ Illumina Paired End Adapter 1                                       ACACTCTTTCCC
 Illumina Paired End Adapter 2                                       CTCGGCATTCCTGCTGAACCGCTCTTCCGATCT
 Illumina Paried End PCR Primer 1           AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT
 Illumina Paired End PCR Primer 2        CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT
-Illumina Paried End Sequencing Primer 1			                        ACACTCTTTCCCTACACGACGCTCTTCCGATCT
-Illumina Paired End Sequencing Primer 2			                    CGGTCTCGGCATTCCTACTGAACCGCTCTTCCGATCT
+Illumina Paried End Sequencing Primer 1                             ACACTCTTTCCCTACACGACGCTCTTCCGATCT
+Illumina Paired End Sequencing Primer 2                         CGGTCTCGGCATTCCTACTGAACCGCTCTTCCGATCT
 
 Illumina DpnII expression Adapter 1				ACAGGTTCAGAGTTCTACAGTCCGAC
 Illumina DpnII expression Adapter 2				CAAGCAGAAGACGGCATACGA
